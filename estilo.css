@@ -84,7 +84,7 @@ main.contact div ul li a:hover{
     border-style: dashed;
 }
 
-main > div > ul li::before {
+main#receitas > div > details > ul li::before {
     content: "\2022"; 
     color: whitesmoke; 
     font-weight: bold; 
@@ -93,7 +93,11 @@ main > div > ul li::before {
     margin-left: -1em; 
   }
 
-  main > div > ol li::before {
+  main#receitas > div > details > ol {
+    counter-reset: li;
+  }
+
+  main#receitas > div > details > ol li::before {
     content: counter(li);
     counter-increment: li;
     color: whitesmoke; 
