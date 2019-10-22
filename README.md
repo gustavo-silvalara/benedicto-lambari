@@ -1,7 +1,9 @@
-# benedicto_lambari
-Portal do Dito pra ganha dinheiro com receitas
+# benedicto-lambari
+Portal do Dito Lambari pra ganhar dinheiro com receitas deliciosíssimas (chega manteiga derrete)
 
-1. Inserir todos os arquivos em uma única pasta;
-2. Abrir index.html
+Acesse o portal do Dito agora mesmo!
+https://gustavo-silvalara.github.io/benedicto-lambari/index.html
 
+
+( Passado triste do portal do Dito Lambari :( )
 ![Dito Lambari page](ditopageintro.png)
