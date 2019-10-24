@@ -41,7 +41,7 @@ body > div#corpo-pagina{
     background-image: url(../img/backgroundColored.png);
     height: 100%;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: repeat!important;
     background-size: cover;
 }
 
