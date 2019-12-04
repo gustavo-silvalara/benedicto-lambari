@@ -2,4 +2,4 @@
 Portal do Dito Lambari pra ganhar dinheiro com receitas deliciosíssimas (chega manteiga derrete)
 
 Acesse o portal do Dito agora mesmo!
-https://gustavo-silvalara.github.io/benedicto-lambari/index.html
+http://gustavo-lara.codes/benedicto-lambari
